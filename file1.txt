@@ -1,0 +1,11 @@
+Menambah file1.txt
+Menambah baris di file1.txt
+Feature 1
+
+feature a
+
+feature b
+feature c
+feature d
+Rebase 1
+fitur merge squash

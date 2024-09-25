@@ -1,0 +1,10 @@
+Menambah file2.txt
+Menambah baris di file2.txt
+feature 2
+feature b
+REBASE 2
+fitur merge squash
+
+Menambahkan remote repository
+gunakan perintah : git remote add nama ssh-url
+salah satu kebiasaan di Git, biasanya memberi nama untuk remote repository dengan nama origin.
