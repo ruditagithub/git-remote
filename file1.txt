@@ -9,6 +9,7 @@ feature c
 feature d
 Rebase 1
 fitur merge squash
-CONTOH PULL REQUEST
+CONTOH PULL REQUEST DENGAN MERGE CONFLICT
+CONTOH USER 2
 
 Hello GITHUB
